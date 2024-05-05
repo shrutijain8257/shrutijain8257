@@ -2,7 +2,7 @@ https://shruti-jain-portfolio.netlify.app/
 <h1 align="center">Hi 👋, I'm Shruti Jain</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align="right" src="https://img.shields.io/twitter/follow/shrutijain?logo=twitter&style=for-the-badge" alt="cplusplus" width="400" height="300"/> </a>
+<img align="right" src="https://th.bing.com/th/id/OIP.cdlIahcR-PnMbjhkB-XJ7AHaFv?rs=1&pid=ImgDetMain" alt="coding" width="400"/> </a>
 
 
 <p align="left"> <a href="https://twitter.com/Shru3825" target="blank"><img src="https://img.shields.io/twitter/follow/shrutijain?logo=twitter&style=for-the-badge" alt="shrutijain8257"  </p>
