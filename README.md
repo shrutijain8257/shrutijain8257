@@ -1,5 +1,5 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
-(https://shruti-jain-portfolio.netlify.app/)
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+https://shruti-jain-portfolio.netlify.app/
 <h1 align="center">Hi 👋, I'm Shruti Jain</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="(https://dribbble.com/shots/18440710-Character-Animation?utm_source=Clipboard_Shot&utm_campaign=hadi-taalebi&utm_content=Character%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=hadi-taalebi&utm_content=Character%20Animation&utm_medium=Social_Share)">
