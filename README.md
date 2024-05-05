@@ -1,8 +1,7 @@
 https://shruti-jain-portfolio.netlify.app/
 <h1 align="center">Hi 👋, I'm Shruti Jain</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<!--<img align="right"  src="">-->
-<iframe align="right" alt="Coding" width="400" src="https://giphy.com/embed/qT3NpahR7tGnOqqjng" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-softwaredevelopment-rindus-qT3NpahR7tGnOqqjng">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400"  src="https://giphy.com/embed/qT3NpahR7tGnOqqjng">
 
 
 <p align="left"> <a href="https://twitter.com/Shru3825" target="blank"><img src="https://img.shields.io/twitter/follow/shrutijain?logo=twitter&style=for-the-badge" alt="shrutijain8257"  </p>
