@@ -1,6 +1,6 @@
 https://shruti-jain-portfolio.netlify.app/
 <h1 align="center">Hi 👋, I'm Shruti Jain</h1>
-<!--<h3 align="center">A passionate Software Developer from India</h3>-->
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" src="https://th.bing.com/th/id/OIP.cdlIahcR-PnMbjhkB-XJ7AHaFv?rs=1&pid=ImgDetMain" alt="coding" width="400"/> </a>
 
